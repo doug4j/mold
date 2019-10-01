@@ -1,6 +1,6 @@
 package modifiers
 
-import "gopkg.in/go-playground/mold.v2"
+import "github.com/doug4j/mold"
 
 // New returns a modifier with defaults registered
 func New() *mold.Transformer {

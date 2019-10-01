@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gopkg.in/go-playground/mold.v2"
+	"github.com/doug4j/mold"
 )
 
 var (
